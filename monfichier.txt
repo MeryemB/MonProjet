@@ -1,2 +1,3 @@
 This is the description for my app android:
 The application will help you check ,verify and solve things either it is an mathematical equations or scientific fact...
+This application is in beta version 1.0
